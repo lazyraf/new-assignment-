@@ -39,9 +39,7 @@ header img{
     height: 600px;
 }
 .header-container{
-    /* background-image: url(new-year-new-me/images/banner/banner1.png);
-    background-repeat: no-repeat;
-    background-size: cover; */
+   
     position: absolute;
     height: 600px;
     padding-bottom: 50px;
@@ -95,7 +93,6 @@ header img{
 .middle-text h2,p{
     margin-bottom: 10px;
 }
-/* my plan styles */
 
 .plans{
     text-align: center;
@@ -112,11 +109,11 @@ header img{
     letter-spacing: 1px;
 
 }
-/* mindset style */
+
 .mindset{
     margin: 0px 0px 0px 220px;
     background-image: url(new-year-new-me/images/gradient2.png),url(new-year-new-me/images/watch.png);
-    /* background-size: cover; */
+
     background-size: contain;
     background-repeat: no-repeat;
     width: 1040px;
@@ -129,9 +126,9 @@ header img{
     color: white;
     margin-bottom: 20px;
 }
-/*----------------- footer ---------------*/
+
 footer{
-    /* width: auto; */
+    
     display: flex;
     height: 400px;
     margin-top: 100px;
